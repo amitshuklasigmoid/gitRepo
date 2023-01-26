@@ -1,4 +1,5 @@
 This is my Git assignment
+
 Step 1: Initialized a git Repository Locally and created Intergration and Hotfix branches. Main branch was already there.
 
 Step 2: Created Feature1 and Feature2 branch inside Integration Branch.
